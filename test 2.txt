@@ -7,3 +7,4 @@ commmit 3 in test 2
 commmit 4 in test 2
 commmit 5 in test 2
 commmit 6 in test 2
+commmit 7 in test 2
